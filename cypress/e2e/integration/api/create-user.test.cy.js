@@ -12,6 +12,4 @@ describe('Create new User', () => {
            
         })
     })
-    
-   
 })
